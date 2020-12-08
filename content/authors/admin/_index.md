@@ -19,19 +19,6 @@ organizations:
 - name: Helmut Schmidt University
   url: https://www.hsu-hh.de/
 role: Economics PhD Candidate
-social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.de/citations?user=M-f1n6MAAAAJ&hl=en&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/hausteinerik
 superuser: true
 title: Erik Haustein
 user_groups:
