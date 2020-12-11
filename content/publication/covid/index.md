@@ -6,6 +6,8 @@ authors:
 date: "2020-07-01T00:00:00Z"
 doi: ""
 featured: true
+publication_types:
+- "3"
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 tags:

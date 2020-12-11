@@ -8,6 +8,8 @@ authors:
 date: "2020-02-01T00:00:00Z"
 doi: ""
 featured: false
+publication_types:
+- "3"
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 tags:
