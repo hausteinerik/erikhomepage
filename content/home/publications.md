@@ -31,6 +31,7 @@ subtitle = ""
     author = ""
     exclude_featured = false
   
+  
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -70,3 +71,5 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+
