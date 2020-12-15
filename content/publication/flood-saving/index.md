@@ -1,9 +1,9 @@
 ---
 abstract: Recently, there is a growing interest in understanding the effects of life experiences on financial decision making. An underexplored question is whether and how natural disasters affect household saving behavior. For this purpose, we exploit a natural experiment stemming from the European Flood of August 2002. Combining micro data with geo-coded flood maps allows us to analyze the causal impact of flood exposure on household savings within a differences-in-differences setting. We find that flood exposure depresses household saving behavior in the medium run. The most likely explanation is moral hazard induced by massive government support for affected households.
 authors:
-- Michael Berlemann
+- berlemann
 - admin
-- Max F. Steinhardt
+- steinhardt
 - Jascha Tutt
 date: "2020-02-01T00:00:00Z"
 doi: ""
