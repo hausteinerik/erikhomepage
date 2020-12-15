@@ -26,8 +26,8 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.de/citations?user=M-f1n6MAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab

@@ -22,8 +22,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "Michael.Berlemann@hsu-hh.de"
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.de/citations?user=7EhkcUIAAAAJ&hl=de
 - icon: home
   icon_pack: fas
