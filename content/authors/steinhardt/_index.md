@@ -33,7 +33,7 @@ title: Max Friedrich Steinhardt
 
 ---
 
-Max F. Steinhardt is Professor at the John F. Kennedy Institute for North American Studies and the FU Berlin. His research centers around the impacts of migration on economic outcomes.
+Max F. Steinhardt is Professor at the John F. Kennedy Institute for North American Studies and the FU Berlin. His research interests are in labor economics, political economy, economics of migration, and U.S. economic policy.
 
 
 
