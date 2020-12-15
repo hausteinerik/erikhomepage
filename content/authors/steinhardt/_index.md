@@ -3,7 +3,7 @@ bio:
 education:
  courses:
   - course: PhD Economics
-    institution: University Hamburg
+    institution: University of Hamburg
     year: 2009
 email: 
 highlight_name: false
