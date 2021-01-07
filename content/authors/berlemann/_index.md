@@ -2,11 +2,22 @@
 bio:  
 education:
  courses:
-  - course: 
+  - course: Habilitation Economics
+    institution: Dresden University of Technology
+    year: 2004
+  - course: PhD Economics
+    institution: Dresden University of Technology
+    year: 1999
+  - course: Diploma in Economic Sciences
+    institution: Ruhr-University Bochum
+    year: 1994
 email: 
 highlight_name: false
 interests:
-- 
+- Applied Econometrics
+- Economics of Climate Change
+- Political Economy
+- Macroeconomics
 organizations:
 - name: Helmut Schmidt University
   url: https://www.hsu-hh.de/empwifo/
