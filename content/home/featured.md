@@ -31,10 +31,19 @@ content:
   # Show a "See all" link?
   link_to_archive: false
 design:
+  columns: "1"
+  background:
+    image: background3.jpg
+    image_darken: 0.6
+    image_parallax: true
+    image_position: center
+    image_size: cover  
+
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
+
 ---
