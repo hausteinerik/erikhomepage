@@ -23,8 +23,8 @@ author: admin
 design:
   columns: "1"
   background:
-    image: background2.jpg
-    image_darken: 0.5
+    image: background3.jpg
+    image_darken: 0.6
     image_parallax: true
     image_position: center
     image_size: cover
